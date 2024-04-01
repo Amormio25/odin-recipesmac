@@ -1,0 +1,1 @@
+This mini Odin-Project will be based on creating a basic recipes webpage on my favorite food. Once finished, I will display basic HTML skills through images, lists, paragraphs, and web-building. 
